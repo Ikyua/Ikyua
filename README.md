@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Kyle Silvestre! 👋
 
-<!--
-**Ikyua/Ikyua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Studying Computer Science + Data Analytics @ CUNY Queens College  
+💻 Previous SWE Intern @ Loisaida Inc
 
-Here are some ideas to get you started:
+### A little about me:  
+🏐 I love to play volleyball as a setter/libero </br>
+🏃‍♂️ Running & biking </br>
+🏋️‍♂️ Going to the Gym </br>
+🎨 Drawing, finding new music and going to concerts :3  </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social Media:
+[LinkedIn](https://www.linkedin.com/in/kyle-silvestre01/)
