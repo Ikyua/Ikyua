@@ -12,8 +12,7 @@ const aboutMe = {
     incoming: "undecided",
     curr: "Club Advisor @ QC Volleyball",
     prev: "Software Engineering Intern @ Loisaida Inc",
-    prev2: 
-  },
+},
   socials: {
     linkedin: "https://www.linkedin.com/in/kyle-silvestre01/",
     email: "kyle.silvestre01@gmail.com"
