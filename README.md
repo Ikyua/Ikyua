@@ -9,7 +9,7 @@ const aboutMe = {
     pronouns: "he/him",
   },
   experience: {
-    incoming: "undecided",
+    incoming: "Undergraduate Research Assistant @ CUNY Queens College Data Analytics Department",
     curr: "Club Advisor @ QC Volleyball",
     prev: "Software Engineering Intern @ Loisaida Inc",
 },
